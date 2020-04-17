@@ -21,7 +21,7 @@ body{
 header{
     width: 100vw;
     background-color: black;
-    animation: Slide_up 1.4s ease-in ;
+    animation: Slide_up .9s ease-in ;
 }
 nav{
     width: 90%;
@@ -52,7 +52,7 @@ h1{
     color: #f9e5bc;
     margin: 50px 0;
     font-family: 'Poppins', sans-serif;
-    animation: Slide_up 1.4s ease-in ;
+    animation: Slide_up .8s ease-in ;
 }
 /* About section */
 p{
@@ -62,7 +62,7 @@ p{
     text-align: justify;
 }
 .profile-container{
-    animation: Slide_up 1.4s ease-in
+    animation: Slide_up .5s ease-in
 }
 .profile-pics{
     width: 90%;
@@ -84,12 +84,12 @@ blockquote{
     margin-bottom: 20px;
 }
 .about-container{
-    animation: Slide_up 1.4s ease-in
+    animation: Slide_up .6s ease-in
 }
 /* contact section */
 form{
     text-align: center;
-    animation: Slide_up 1.4s ease-in
+    animation: Slide_up .7s ease-in
 }
 input{
     padding: 10px;
